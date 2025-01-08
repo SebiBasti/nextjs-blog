@@ -8,7 +8,7 @@ import footerStyle from '@/styles/footer.module.scss'
 export function Footer() {
   return (
     <footer className={footerStyle.container}>
-      <p>Sebastian&nbsp;Remm ©&nbsp;2021&nbsp;-&nbsp;2024</p>
+      <p>Sebastian&nbsp;Remm ©&nbsp;2021&nbsp;-&nbsp;2025</p>
       <Link
         href="https://github.com/SebiBasti"
         target="_blank"
